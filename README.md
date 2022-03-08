@@ -1,5 +1,4 @@
 you can see my curriculum vitae [here](https://github.com/skywalker-dell/CV/settings/pages).
-
 ***
 
 ## Getting started
