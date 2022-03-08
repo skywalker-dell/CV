@@ -33,7 +33,7 @@ Weihai
 ```
 
 - Bachelor in Robot Engineering
-- **GPA**   90.0 / 100
+- **GPA**   89.0 / 100
 
 ### **Artificial Intelligence Internship Programme** `2022.1 - 2022.2`
 
