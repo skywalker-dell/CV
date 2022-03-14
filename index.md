@@ -58,6 +58,7 @@ Algorithm Department Leader<br>
 Deputy Captain<br>
 
 - Designed code framework for our team to enable agile development
+- Designed a two-ring cascade PID Controller for a gimbal
 - Managed the team development progress and division of labors
 <!-- - Opened training courses for college freshmen -->
 
