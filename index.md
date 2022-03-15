@@ -43,6 +43,7 @@ Weihai
 ```
 Online
 ```
+- Focused on Machine Learning and Deep Learning
 
 ### **Competitive Robot Team** (Robot Laboratory of Harbin Institute of Technology, Weihai)`2020.9 - present`
 ```
@@ -73,8 +74,8 @@ Deputy Captain<br>
 
 ## Honors & Awards
 
-- Second Prize in the Final Round of the National College Students’ RoboMaster robotic Competition (**The largest and most influential robot competition in China**) `2021`<br>
-- First Prize in the Northern Contest Zone of the National College Students’ RoboMaster robotic Competition `2021` <br>
+- Second Prize in the Final Round of the National College Students’ RoboMaster robotic Competition `2021`<br>(**The largest and most influential robot competition in China**) 
+<!-- - First Prize in the Northern Contest Zone of the National College Students’ RoboMaster robotic Competition `2021` <br> -->
 - National Encouragement Scholarship (Top 3% national-wide) `2020` <br>
 - First Prize in Shandong Province University Physics Competition `2019` <br>
 
