@@ -40,11 +40,15 @@ Weihai
 
 ## Research Experience
 ### **Artificial Intelligence Internship Programme** `2022.1 - 2022.2`
+```
+Online
+```
 
 ### **Competitive Robot Team** (Robot Laboratory of Harbin Institute of Technology, Weihai)`2020.9 - present`
 ```
 Weihai
 ```
+
 
 Algorithm Department Member<br> 
 
@@ -64,9 +68,7 @@ Deputy Captain<br>
 <!-- - Opened training courses for college freshmen -->
 
 
-```
-Online
-```
+
 
 
 ## Honors & Awards
