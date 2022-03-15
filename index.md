@@ -39,6 +39,7 @@ Weihai
 
 
 ## Research Experience
+### **Artificial Intelligence Internship Programme** `2022.1 - 2022.2`
 
 ### **Competitive Robot Team** (Robot Laboratory of Harbin Institute of Technology, Weihai)`2020.9 - present`
 ```
@@ -62,7 +63,6 @@ Deputy Captain<br>
 - Managed the team development progress and division of labors
 <!-- - Opened training courses for college freshmen -->
 
-### **Artificial Intelligence Internship Programme** `2022.1 - 2022.2`
 
 ```
 Online
@@ -71,10 +71,12 @@ Online
 
 ## Honors & Awards
 
-- Shandong Province University Physics Competition `2019` <br>
-- National Encouragement Scholarship (Top 3% national-wide) `2020` <br>
-- First Prize in the Northern Contest Zone of the National College Students’ RoboMaster robotic Competition `2021` <br>
 - Second Prize in the Final Round of the National College Students’ RoboMaster robotic Competition (**The largest and most influential robot competition in China**) `2021`<br>
+- First Prize in the Northern Contest Zone of the National College Students’ RoboMaster robotic Competition `2021` <br>
+- National Encouragement Scholarship (Top 3% national-wide) `2020` <br>
+- First Prize in Shandong Province University Physics Competition `2019` <br>
+
+
 
 
 ## Professional Skills
