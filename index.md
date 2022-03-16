@@ -74,7 +74,9 @@ Deputy Captain<br>
 
 ## Honors & Awards
 
-- Second Prize in the Final Round of the National College Students’ RoboMaster robotic Competition `2021`<br>(**The largest and most influential robot competition in China**) 
+<!-- - Second Prize in the Final Round of the National College Students’ RoboMaster robotic Competition `2021`<br>(**The largest and most influential robot competition in China**)  -->
+- Second Prize in the Final Round of the National College Students’ RoboMaster robotic Competition `2021`<br> 
+
 <!-- - First Prize in the Northern Contest Zone of the National College Students’ RoboMaster robotic Competition `2021` <br> -->
 - National Encouragement Scholarship (Top 3% national-wide) `2020` <br>
 - First Prize in Shandong Province University Physics Competition `2019` <br>
@@ -89,15 +91,17 @@ Deputy Captain<br>
 - Software: SolidWorks, AutoCAD
 
 **programming**：
-- programming language: C++, Python, Matlab and some markup languages
+- Programming languages: C++, Python, Matlab and some markup languages
 - Didigital Image Processing with OpenCV
-- Machine Learning & Deep Learning (Pytorch)
+- Machine Learning and Deep Learning (Pytorch)
   <!-- - Linux Development -->
-- ROS2 Development and Embedded System Development
+<!-- - ROS2 Development and Embedded System Development -->
+- ROS2 Development
+
 
 **Simulation:**
 - MATLAB Simulink Toolbox
-- Gazebo
+<!-- - Gazebo -->
   <!-- - Coppeliasim -->
 
 
