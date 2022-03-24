@@ -28,14 +28,17 @@ Supported arguments:
 
 <!-- ### **Harbin Institute of Technology, Weihai (HIT)** `2019.9 -2023.6(Expected)` -->
 ### **Harbin Institute of Technology** `2019.9 -2023.6 (Expected)`
+<!-- ### **Harbin Institute of Technology (C9 League)** `2019.9 -2023.6 (Expected)` -->
+
 
 
 ```
 Weihai
 ```
 
-- Bachelor in Robot Engineering
+- Bachelor in **Robot Engineering**
 - **GPA**   89.06 / 100
+- IELTS 7.0
 
 
 ## Research Experience
@@ -58,13 +61,13 @@ Algorithm Department Member<br>
 
 Algorithm Department Leader<br>
 
-- Designed a detection algorithm for a specific target and deployed it on Jetson TX2. (150+ fps for a 640*480 image, 98% callback and almot 100% precision)
+- Designed a detection algorithm for a specific target and deployed it on Jetson TX2 (150+ fps for a 640*480 image, 98% callback and almot 100% precision)
 - Applied the extended Kalman filter to fliter the identified target coordinates and predict motion
 
 Deputy Captain<br>
 
-- Designed code framework for our team to enable agile development
-- Designed a two-ring cascade PID Controller for a gimbal
+- Designed code framework for our team to enable Agile Development
+- Implemented a two-ring cascade PID Controller for a gimbal
 - Managed the team development progress and division of labors
 <!-- - Opened training courses for college freshmen -->
 
@@ -78,8 +81,8 @@ Deputy Captain<br>
 - Second Prize in the Final Round of the National College Students’ RoboMaster robotic Competition `2021`<br> 
 
 <!-- - First Prize in the Northern Contest Zone of the National College Students’ RoboMaster robotic Competition `2021` <br> -->
-- National Encouragement Scholarship (Top 3% national-wide) `2020` <br>
-- First Prize in Shandong Province University Physics Competition `2019` <br>
+- National Encouragement Scholarship (**Top 3% national-wide**) `2020` <br>
+- First Prize in Shandong Province University Physics Competition (Also **Top1** in my university) `2019` <br>
 
 
 
@@ -90,18 +93,18 @@ Deputy Captain<br>
 - Skills: 3D modeling
 - Software: SolidWorks, AutoCAD
 
-**programming**：
+**programming:**
 - Programming languages: C++, Python, Matlab and some markup languages
-- Didigital Image Processing with OpenCV
+- Digital Image Processing with OpenCV
 - Machine Learning and Deep Learning (Pytorch)
   <!-- - Linux Development -->
-<!-- - ROS2 Development and Embedded System Development -->
+  <!-- - ROS2 Development and Embedded System Development -->
 - ROS2 Development
 
 
 **Simulation:**
 - MATLAB Simulink Toolbox
-<!-- - Gazebo -->
+  <!-- - Gazebo -->
   <!-- - Coppeliasim -->
 
 
