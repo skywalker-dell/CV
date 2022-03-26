@@ -48,7 +48,7 @@ Online
 ```
 - Focused on Machine Learning and Deep Learning
 
-### **Competitive Robot Team** (Robot Laboratory of Harbin Institute of Technology, Weihai)`2020.9 - present`
+### **Competitive Robot Team** (Robot Laboratory of Harbin Institute of Technology, Weihai)`2020.9 - Present`
 ```
 Weihai
 ```
@@ -62,7 +62,7 @@ Algorithm Department Member<br>
 Algorithm Department Leader<br>
 
 - Designed a detection algorithm for a specific target and deployed it on Jetson TX2 (150+ fps for a 640*480 image, 98% callback and almot 100% precision)
-- Applied the extended Kalman filter to fliter the identified target coordinates and predict motion
+- Applied the extended Kalman filter to state estimation and motion prediction
 
 Deputy Captain<br>
 
