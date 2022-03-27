@@ -56,18 +56,19 @@ Weihai
 
 Algorithm Department Member<br> 
 
-- Developed a robust monocular camera ranging algorithm
+- Developed a robust **monocular camera ranging algorithm**
 - Implemented robot communication protocol between Jetson products and STM32
 
 Algorithm Department Leader<br>
 
-- Designed a detection algorithm for a specific target and deployed it on Jetson TX2 (150+ fps for a 640*480 image, 98% callback and almot 100% precision)
-- Applied the extended Kalman filter to state estimation and motion prediction
+- Designed a detection algorithm for a specific target using **binarization and CNN classifier** and deployed it on Jetson TX2 (150+ fps for a 640*480 image, 98% callback and almot 100% precision)
+- Applied the **extended kalman filter** to state estimation and maneuvering target tracking
+- Used **fourier transform** to fit motion with a specific law
 
 Deputy Captain<br>
 
-- Designed code framework for our team to enable Agile Development
-- Implemented a two-ring cascade PID Controller for a gimbal
+- Designed code framework for our team to enable **Agile Development**
+- Implemented a **two-ring cascade PID Controller** for a gimbal
 - Managed the team development progress and division of labors
 <!-- - Opened training courses for college freshmen -->
 
@@ -78,7 +79,7 @@ Deputy Captain<br>
 ## Honors & Awards
 
 <!-- - Second Prize in the Final Round of the National College Students’ RoboMaster robotic Competition `2021`<br>(**The largest and most influential robot competition in China**)  -->
-- Second Prize in the Final Round of the National College Students’ **RoboMaster** robotic Competition `2021`<br> 
+- Second Prize in the Final Round of the National College Students' **RoboMaster** robotic Competition `2021`<br> 
 
 <!-- - First Prize in the Northern Contest Zone of the National College Students’ RoboMaster robotic Competition `2021` <br> -->
 - National Encouragement Scholarship (**Top 3% national-wide**) `2020` <br>
