@@ -61,7 +61,7 @@ Algorithm Department Member<br>
 
 Algorithm Department Leader<br>
 
-- Designed a detection algorithm for a specific target using **binarization and CNN classifier** and deployed it on Jetson TX2 (150+ fps for a 640*480 image, 98% callback and almot 100% precision)
+- Implemented a detection algorithm using **geometric feature extraction and a CNN classifier**, deployed it on Jetson TX2 (150+ fps for a 640*480 image, 98% callback and almot 100% precision)
 - Applied the **extended kalman filter** to state estimation and maneuvering target tracking
 - Used **fourier transform** to fit motion with a specific law
 
@@ -96,7 +96,7 @@ Deputy Captain<br>
 
 **programming:**
 - Programming languages: C++, Python, Matlab and some markup languages
-- Techniques: ROS2, OpenCV, Pytorch, Arduino
+- Techniques: ROS2, OpenCV, Pytorch, Arduino, Docker
 <!-- - Digital Image Processing with OpenCV -->
 <!-- - Machine Learning and Deep Learning (Pytorch) -->
   <!-- - Linux Development -->
