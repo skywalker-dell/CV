@@ -75,7 +75,6 @@ Deputy Captain<br>
 
 
 
-
 ## Honors & Awards
 
 <!-- - Second Prize in the Final Round of the National College Students’ RoboMaster robotic Competition `2021`<br>(**The largest and most influential robot competition in China**)  -->
@@ -95,7 +94,7 @@ Deputy Captain<br>
 - Software: SolidWorks, AutoCAD
 
 **programming:**
-- Programming languages: C++, Python, Matlab and some markup languages
+- Languages: C++, Python, Matlab, Mardown, HTML, LaTex
 - Techniques: ROS2, OpenCV, Pytorch, Arduino, Docker
 <!-- - Digital Image Processing with OpenCV -->
 <!-- - Machine Learning and Deep Learning (Pytorch) -->
