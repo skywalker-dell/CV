@@ -37,7 +37,7 @@ Weihai
 ```
 
 - Bachelor in **Robot Engineering**
-- **GPA**   89.06 / 100
+- **GPA**   88.07 / 100
 - IELTS 7.0
 
 
