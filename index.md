@@ -102,7 +102,7 @@ Deputy Captain<br>
 
 **programming:**
 - Languages: C++, Python, Matlab, Mardown, HTML, LaTex
-- Techniques: ROS2, OpenCV, Pytorch, Arduino, Docker
+- Techniques: ROS, OpenCV, Pytorch, Arduino, Docker, Qt
 <!-- - Digital Image Processing with OpenCV -->
 <!-- - Machine Learning and Deep Learning (Pytorch) -->
   <!-- - Linux Development -->
