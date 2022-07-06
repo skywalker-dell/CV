@@ -41,14 +41,21 @@ Weihai
 - IELTS 7.0
 
 
-## Research Experience
+## Experience
+### **Institute for AI Industry Research, Tsinghua University** `2022.7 - Present`
+```
+Beijing
+```
+- Focused on Sim-to-Real
+
+
 ### **NTU Artificial Intelligence Internship Programme** `2022.1 - 2022.2`
 ```
 Online
 ```
 - Focused on Machine Learning and Deep Learning
 
-### **Competitive Robot Team** (Robot Laboratory of Harbin Institute of Technology, Weihai)`2020.9 - Present`
+### **Competitive Robot Team** (Robot Laboratory of Harbin Institute of Technology, Weihai)`2020.9 - 2022.7`
 ```
 Weihai
 ```
