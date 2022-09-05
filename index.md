@@ -7,9 +7,9 @@ email:
 phone:
   url: tel:+86-15063659552
   text: +86-15063659552
-# github:
-#   url: https://github.com/skywalker-dell
-#   text: skywalker-dell
+homepage:
+  url: https://skywalker-dell.github.io/personal-page/
+  text: homepage
 ---
 
 # Wenxuan Zhu
@@ -42,18 +42,21 @@ Weihai
 
 
 ## Experience
-### **Institute for AI Industry Research, Tsinghua University** `2022.7 - Present`
+### **Institute for AI Industry Research, Tsinghua University** `2022.8 - Present`
 ```
 Beijing
 ```
-- Focused on Sim-to-Real
+
+Research Intern<br> 
+- Currently responsible for robot navigation algorithm
 
 
-### **NTU Artificial Intelligence Internship Programme** `2022.1 - 2022.2`
+### **NTU Bussiness AI Lab** `2022.1 - 2022.2`
 ```
 Online
 ```
-- Focused on Machine Learning and Deep Learning
+- Applyed Machine Learning to solve real problems accurately and robustly
+- Overall Grade: Distinction
 
 ### **Competitive Robot Team** (Robot Laboratory of Harbin Institute of Technology, Weihai)`2020.9 - 2022.7`
 ```
@@ -64,19 +67,18 @@ Weihai
 Algorithm Department Member<br> 
 
 - Developed a robust **monocular camera ranging algorithm**
-- Implemented robot communication protocol between Jetson products and STM32
+- Deployed communication protocol between Jetson products and STM32
 
 Algorithm Department Leader<br>
 
-- Implemented a detection algorithm using **geometric feature extraction and a CNN classifier**, deployed it on Jetson TX2 (150+ fps for a 640*480 image, 98% callback and almot 100% precision)
-- Applied the **extended kalman filter** to state estimation and maneuvering target tracking
-- Used **fourier transform** to fit motion with a specific law
+- Implemented a detection algorithm using **geometric feature extraction and CNN classifier**, deployed it on Jetson TX2 (150+ fps for a 640*480 image, 98% callback and almot 100% precision)
+- Applied the **extended kalman filter** to maneuvering target tracking and prediction
+<!-- - Used **fourier transform** to fit motion with a specific law -->
 
 Deputy Captain<br>
-
-- Designed code framework for our team to enable **Agile Development**
+- Redesignd the auto-aim code framework that facilitates agile development
 - Implemented a **two-ring cascade PID Controller** for a gimbal
-- Managed the team development progress and division of labors
+- Responsible for staff segregation and project progress management
 <!-- - Opened training courses for college freshmen -->
 
 
@@ -85,6 +87,7 @@ Deputy Captain<br>
 ## Honors & Awards
 
 <!-- - Second Prize in the Final Round of the National College Students’ RoboMaster robotic Competition `2021`<br>(**The largest and most influential robot competition in China**)  -->
+- First Prize in the Final Round of the National College Students' **RoboMaster** robotic Competition Apparatus Finals `2022`<br> 
 - Second Prize in the Final Round of the National College Students' **RoboMaster** robotic Competition `2021`<br> 
 
 <!-- - First Prize in the Northern Contest Zone of the National College Students’ RoboMaster robotic Competition `2021` <br> -->
@@ -101,7 +104,7 @@ Deputy Captain<br>
 - Software: SolidWorks, AutoCAD
 
 **programming:**
-- Languages: C++, Python, Matlab, Mardown, HTML, LaTex
+- Languages: C++, Python, Matlab, Mardown, LaTex
 - Techniques: ROS, OpenCV, Pytorch, Arduino, Docker, Qt
 <!-- - Digital Image Processing with OpenCV -->
 <!-- - Machine Learning and Deep Learning (Pytorch) -->
@@ -112,7 +115,7 @@ Deputy Captain<br>
 
 **Simulation:**
 - MATLAB Simulink Toolbox
-  <!-- - Gazebo -->
+- Gazebo
   <!-- - Coppeliasim -->
 
 
