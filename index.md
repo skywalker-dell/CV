@@ -78,7 +78,7 @@ Algorithm Department Leader<br>
 Deputy Captain<br>
 <!-- - Redesignd the auto-aim code framework -->
 - Redesignd the auto-aim code framework, which improves algorithm performance through multi-threading, high-performance programming and other means, reduces code coupling, which is convenient for agile development
-- Implemented a **two-ring cascade PID Controller** for a gimbal，used system identification method to improve the response performance of the gimbal
+- Implemented a **two-ring cascade PID Controller** for a gimbal, used system identification method to improve the response performance of the gimbal
 - Responsible for staff segregation and project progress management
 <!-- - Opened training courses for college freshmen -->
 
