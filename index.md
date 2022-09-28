@@ -88,11 +88,16 @@ Deputy Captain<br>
 ## Honors & Awards
 
 <!-- - Second Prize in the Final Round of the National College Students’ RoboMaster robotic Competition `2021`<br>(**The largest and most influential robot competition in China**)  -->
-- First Prize in the Final Round of the National College Students' **RoboMaster** robotic Competition Individual Finals `2022`<br> 
-- Second Prize in the Final Round of the National College Students' **RoboMaster** robotic Competition `2021`<br> 
+
+- First Prize in the Final Round of RoboMaster University Technical Challenge `2022`<br>
+- Second Prize in the Final Round of **RoboMaster** University Championship `2022`<br>
+- Successful Participant Award in Interdisciplinary Contest in Modeling`2022`<br> 
+<!-- - Second Prize in the Final Round of the National College Students' **RoboMaster** robotic Competition `2021`<br> -->
+- Second Prize in the Final Round of **RoboMaster** University Championship `2021`<br>
 
 <!-- - First Prize in the Northern Contest Zone of the National College Students’ RoboMaster robotic Competition `2021` <br> -->
 - National Encouragement Scholarship `2020` <br>
+- The Second Prize Scholarship `2020` <br>
 - First Prize in Shandong Province University Physics Competition (Also **Top1** in my university) `2019` <br>
 
 
