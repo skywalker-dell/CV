@@ -36,7 +36,7 @@ Supported arguments:
 Weihai
 ```
 
-- Bachelor in **Robot Engineering**
+- B.Eng in **Robot Engineering**
 - **GPA**   88.07 / 100
 - IELTS 7.0
 
