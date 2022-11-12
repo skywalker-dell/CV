@@ -48,7 +48,7 @@ Beijing
 ```
 
 Research Intern<br> 
-- Implemented a navigation algorithm, using the **Hybrid A*** to search for a global path and **dwa local planner** for back-end trajectory generation
+- Implemented a navigation algorithm, using the **Hybrid A*** to search for a global path and **DWA local planner** for back-end trajectory generation
 - Currently responsible for two-legged wheeled robot navigation in challenging environment based on **Robot-Centric Elevation Mapping**
 
 
