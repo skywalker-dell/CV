@@ -48,7 +48,8 @@ Beijing
 ```
 
 Research Intern<br> 
-- Currently responsible for robot navigation algorithm
+- Implemented a navigation algorithm，using the Hybrid A* to search for a global path and dwa local planner for back-end trajectory generation
+- Currently responsible for two wheeled robot navigation in challenging environment based on Robot-Centric Elevation Mapping
 
 
 ### **NTU Bussiness AI Lab** `2022.1 - 2022.2`
