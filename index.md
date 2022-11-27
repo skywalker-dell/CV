@@ -12,7 +12,7 @@ homepage:
   text: homepage
 ---
 
-# Wenxuan Zhu
+# Wenxuan ZHU
 
 <!--
 include contact information from the front matter
@@ -48,15 +48,15 @@ Beijing
 ```
 
 Research Intern<br> 
-- Implemented a navigation algorithm, using the **Hybrid A*** to search for a global path and **DWA local planner** for back-end trajectory generation
-- Currently responsible for two-legged wheeled robot navigation in challenging environment based on **Robot-Centric Elevation Mapping**
+- Implemented a navigation algorithm, using the **Hybrid A*** to search a global path and **DWA local planner** for back-end trajectory generation
+- Currently responsible for two-legged wheeled robot navigation on tough and unstructured terrain based on **Robot-Centric Elevation Mapping**
 
 
 ### **NTU Bussiness AI Lab** `2022.1 - 2022.2`
 ```
 Online
 ```
-- Applyed Machine Learning to solve real problems accurately and robustly
+- Applied some machine learning methods to solve real problems accurately
 - Overall Grade: **Distinction**
 
 ### **Competitive Robot Team** (Robot Laboratory of Harbin Institute of Technology, Weihai)`2020.9 - 2022.7`
@@ -68,19 +68,20 @@ Weihai
 Algorithm Department Member<br> 
 
 - Developed a robust **monocular camera ranging algorithm**
-- Deployed communication protocol between Jetson products and STM32
+- Designed and deployed a communication protocol between Jetson products and STM32
 
 Algorithm Department Leader<br>
 
-- Implemented a detection algorithm using **geometric feature extraction and CNN classifier**, deployed it on Jetson TX2 (150+ fps for a 640*480 image, 98% callback and almot 100% precision)
-- Applied the **extended kalman filter** to maneuvering target tracking and prediction
+- Designed a two-stage detection algorithm using **geometric feature extraction and CNN classifier**, deployed it on Jetson TX2 (achieved 150+ fps for a 640*480 image, 98% callback and almost 100% precision)
+- Designed an object tracking and prediction algorithm based on **Extended Kalman Filter**
+<!-- - Applied the **Extended Kalman Filter** to maneuver target tracking and prediction -->
+- Implemented a nonlinear optimization algorithm which is to find the truth value based on Gauss-Newton algorithm
 <!-- - Used **fourier transform** to fit motion with a specific law -->
 
 Deputy Captain<br>
-<!-- - Redesignd the auto-aim code framework -->
-- Redesignd the auto-aim code framework, which improves algorithm performance through multi-threading, high-performance programming and other means, reduces code coupling, which is convenient for agile development
+- Redesigned the vision-aided auto-aim code framework, which improves algorithm performance through multi-threading, high-performance programming and other approaches, reduces code coupling, which is convenient for agile development
 - Implemented a **two-ring cascade PID Controller** for a gimbal, used system identification method to improve the response performance of the gimbal
-- Responsible for staff segregation and project progress management
+- Responsible for human resource allocation and project management 
 <!-- - Opened training courses for college freshmen -->
 
 
@@ -111,7 +112,7 @@ Deputy Captain<br>
 - Software: SolidWorks, AutoCAD
 
 **programming:**
-- Languages: C++, Python, Matlab, Mardown, LaTex
+- Languages: C++, Python, Matlab, Markdown, LaTex
 - Techniques: ROS, OpenCV, Pytorch, Arduino, Docker, Qt
 <!-- - Digital Image Processing with OpenCV -->
 <!-- - Machine Learning and Deep Learning (Pytorch) -->
