@@ -48,8 +48,9 @@ Beijing
 ```
 
 Research Intern<br> 
-- Implemented a navigation algorithm, using the **Hybrid A*** to search a global path and **DWA local planner** for back-end trajectory generation
-- Currently responsible for two-legged wheeled robot navigation on tough and unstructured terrain based on **Robot-Centric Elevation Mapping**
+- Implemented a navigation algorithm for a two-legged wheeled robot in complex environments based on **move_base** and  **elevation mapping**
+- Implemented a 3D detection algorithm for detecting stair planes based on **Point Cloud Library** (PCL)
+- Currently working on image-based camera relocalization problem based on deep learning methods
 
 
 ### **NTU Bussiness AI Lab** `2022.1 - 2022.2`
