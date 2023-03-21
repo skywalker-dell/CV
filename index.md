@@ -43,7 +43,7 @@ Weihai
 
 ## Experience
 
-### **Plus.ai(Autonomous Trucking)** `2023.3 - Present`
+### **Plus.ai (Autonomous Trucking)** `2023.3 - Present`
 ```
 Suzhou
 ```
