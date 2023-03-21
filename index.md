@@ -43,7 +43,7 @@ Weihai
 
 ## Experience
 
-### **Institute for AI Industry Research, Tsinghua University** `2023.3 - Present`
+### **Plus.ai(Autonomous Trucking)** `2023.3 - Present`
 ```
 Suzhou
 ```
