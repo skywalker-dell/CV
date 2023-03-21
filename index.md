@@ -42,7 +42,16 @@ Weihai
 
 
 ## Experience
-### **Institute for AI Industry Research, Tsinghua University** `2022.8 - Present`
+
+### **Institute for AI Industry Research, Tsinghua University** `2023.3 - Present`
+```
+Suzhou
+```
+Intern in the System Integration Group<br> 
+- Currently working on Secure Boot
+
+
+### **Institute for AI Industry Research, Tsinghua University** `2022.8 - 2022.12`
 ```
 Beijing
 ```
@@ -50,7 +59,7 @@ Beijing
 Research Intern<br> 
 - Implemented a navigation algorithm for a two-legged wheeled robot in complex environments based on **move_base** and  **elevation mapping**
 - Implemented a 3D detection algorithm for detecting stair planes based on **Point Cloud Library** (PCL)
-- Currently working on image-based camera relocalization problem based on deep learning methods
+<!-- - Tried some learning-based methods to solve the camera relocalization problem. -->
 
 
 ### **NTU Bussiness AI Lab** `2022.1 - 2022.2`
